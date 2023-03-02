@@ -2,7 +2,7 @@ import React from 'react'
 
 const one = () => {
   return (
-    <div>file one</div>
+    <div>for sub-two</div>
   )
 }
 
