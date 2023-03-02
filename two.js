@@ -2,7 +2,7 @@ import React from 'react'
 
 const one = () => {
   return (
-    <div>this is actual main file</div>
+    <div>this is main file of sub-two</div>
   )
 }
 
