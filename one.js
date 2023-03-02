@@ -2,7 +2,7 @@ import React from 'react'
 
 const one = () => {
   return (
-    <div>this is one file</div>
+    <div>file one</div>
   )
 }
 
