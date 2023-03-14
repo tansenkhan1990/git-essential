@@ -2,8 +2,7 @@ import React from 'react'
 
 const three = () => {
   return (
-    <div>this is create after git two</div>
-    <div>three</div>
+    <div>this is updated version of three file</div>
   )
 }
 
