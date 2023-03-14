@@ -2,7 +2,8 @@ import React from 'react'
 
 const one = () => {
   return (
-    <div>this is uodated version sub-two</div>
+    <div>this is updated version sub-one</div>
+    <div>testing cherry-pick</div>
   )
 }
 
