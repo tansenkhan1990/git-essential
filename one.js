@@ -2,7 +2,7 @@ import React from 'react'
 
 const one = () => {
   return (
-    <div>file one for sub-one</div>
+    <div>this is updated version sub-one</div>
   )
 }
 
